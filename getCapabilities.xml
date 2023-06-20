@@ -129,6 +129,11 @@
 				<Layers>GH:fxjj16_fig_5_17_trench_limits</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<CustomLayer>
+				<Name>GH:fxjj16_fig_5_17_point</Name>
+				<Title>fxjj16_fig_5_17_point</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
